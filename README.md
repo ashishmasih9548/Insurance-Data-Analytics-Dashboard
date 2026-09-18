@@ -2,9 +2,13 @@
 
 ## Project Overview
 This project focuses on building an enterprise-grade interactive dashboard using Power BI to evaluate policyholder data, premium distribution, and claim analytics for the insurance sector.
+
 Developed an interactive Power BI dashboard to analyze insurance data and visualize key business metrics for better decision making.
+
 • Cleaned and transformed insurance data using Power Query.
+
 • Built an interactive dashboard with KPIs, charts, and DAX measures.
+
 • Analyzed claims, policy, and customer data to identify business trends.
 
 **ETL & Data Cleaning:** Extracted raw operational datasets (~10,000+ records containing simulated real-world anomalies), transformed messy fields, and handled missing values using Power Query Editor.
