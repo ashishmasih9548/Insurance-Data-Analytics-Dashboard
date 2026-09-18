@@ -36,7 +36,11 @@ Developed an interactive Power BI dashboard to analyze insurance data and visual
 🗄️ **Data Architecture:** SQL Server Integration with dynamic Date Table mapping and Star-Schema modeling.
 
 ## Project Files
+Project 2 Report Page (Prism Insurane pvt.ltd).pbix
 
+Insurance+Customer+Feedback.xlsx
+
+InsuranceData.csv
 
 
 ## Summary
